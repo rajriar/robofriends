@@ -8,7 +8,7 @@ export const robots = [{
         id: 2,
         name: 'Ariana Ochoa',
         username: 'Nanauhhh',
-        email: 'girl@gmail.com'
+        email: 'HornyGirl@gmail.com'
     },
     {
         id: 3,
